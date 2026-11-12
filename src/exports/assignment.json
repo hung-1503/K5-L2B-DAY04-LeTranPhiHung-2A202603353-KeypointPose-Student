@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603353",
+ "ten": "LeTranPhiHung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "hungltp",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000150500.jpg",
+  "000000176000.jpg",
+  "000000261732.jpg",
+  "000000463932.jpg",
+  "000000311497.jpg",
+  "000000375535.jpg",
+  "000000516902.jpg",
+  "000000210604.jpg",
+  "000000480582.jpg",
+  "000000269462.jpg",
+  "000000012552.jpg"
+ ],
+ "faces": [
+  "face_300399.jpg",
+  "face_362568.jpg",
+  "face_421231.jpg",
+  "face_137371.jpg",
+  "face_505385.jpg",
+  "face_81239.jpg",
+  "face_13874.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-LeTranPhiHung"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-LeTranPhiHung"
+  },
+  "persons-extra": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-extra-LeTranPhiHung"
+  },
+  "faces-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-extra-LeTranPhiHung"
+  }
+ },
+ "persons_extra": [
+  "000000125998.jpg",
+  "000000188948.jpg",
+  "000000323525.jpg"
+ ],
+ "faces_extra": [
+  "face_296417.jpg",
+  "face_300200.jpg",
+  "face_317330.jpg",
+  "face_344941.jpg",
+  "face_379585.jpg"
+ ]
+}
